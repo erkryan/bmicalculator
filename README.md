@@ -1,2 +1,0 @@
-# bmicalculator
-ANN BMI Calculator
